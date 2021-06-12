@@ -1,0 +1,16 @@
+/ch/01/config "CH01" 1 In01 U01
+/ch/02/config "CH02" 1 In02 U02
+/ch/03/config "CH03" 2 In03 U03
+/ch/04/config "CH04" 2 In04 U04
+/ch/05/config "CH05" 3 In05 U05
+/ch/06/config "CH06" 3 In06 U06
+/ch/07/config "CH07" 4 In07 U07
+/ch/08/config "CH08" 4 In08 U08
+/ch/09/config "CH09" 5 In09 U09
+/ch/10/config "CH10" 5 In10 U10
+/ch/11/config "CH11" 6 In11 U11
+/ch/12/config "CH12" 6 In12 U12
+/ch/13/config "CH13" 7 In13 U13
+/ch/14/config "CH14" 7 In14 U14
+/ch/15/config "CH15" 8 In15 U15
+/ch/16/config "CH16" 8 In16 U16
