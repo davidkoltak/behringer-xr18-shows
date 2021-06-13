@@ -1,0 +1,16 @@
+/ch/01/config "R VOC" 1 In01 U01
+/ch/02/config "C VOC" 1 In02 U02
+/ch/03/config "J VOC" 1 In03 U03
+/ch/04/config "M VOC" 1 In04 U04
+/ch/05/config "D VOC" 1 In05 U05
+/ch/06/config "BASS" 3 In06 U06
+/ch/07/config "R GUITAR" 4 In07 U07
+/ch/08/config "C GUITAR" 4 In08 U08
+/ch/09/config "M PIANO" 5 In09 U09
+/ch/10/config "M ORGAN" 5 In10 U10
+/ch/11/config "B KEYS" 5 In11 U11
+/ch/12/config "FIDDLE" 6 In12 U12
+/ch/13/config "KICK" 7 In13 U13
+/ch/14/config "SNARE" 7 In14 U14
+/ch/15/config "CRASH" 7 In15 U15
+/ch/16/config "RIDE" 7 In16 U16
